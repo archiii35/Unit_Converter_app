@@ -23,5 +23,5 @@ Designed for convenience, this app helps you avoid manual calculations and ensur
 
 
 
-https://github.com/user-attachments/assets/13ff7116-657e-47a7-ad07-ae2457115928
+                                                                      https://github.com/user-attachments/assets/13ff7116-657e-47a7-ad07-ae2457115928
 
